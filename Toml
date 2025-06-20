@@ -1,8 +1,2 @@
-[dependencies]
-pkgs = [
-  "python3"
-  "gcc"
-  "make"
-  "pkgconfig"
-  "ta-lib"  # This installs the native TA-Lib C library
-]
+[packages]
+buildInputs = ["ta-lib"]
