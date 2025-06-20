@@ -1,4 +1,4 @@
-TA-Lib
+ta-lib
 requests
 python-telegram-bot==20.3
 ta
