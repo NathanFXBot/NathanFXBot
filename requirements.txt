@@ -1,10 +1,6 @@
-ta-lib
-requests
 python-telegram-bot==20.3
+pytz
 ta
 urllib3
-httpx~=0.24.0
-pytz
-pandas
-numpy
-...
+requests
+ta-lib
