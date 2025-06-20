@@ -1,3 +1,4 @@
+print("Bot is running...")
 import os
 import logging
 from datetime import datetime, time
@@ -162,4 +163,11 @@ def main():
     updater.idle()
 
 if __name__ == '__main__':
+
     main()
+    
+from telegram import Bot
+
+# TEST: Send signal to confirm bot is running
+bot = Bot(token="8162763392:AAFF97mkCT08u9-jJ0Uu5HBS4f7N-Stc_UE")
+bot.send_message(chat_id="-1002085444133", text="Bot is live ✅")
