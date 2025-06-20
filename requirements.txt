@@ -3,4 +3,4 @@ pytz
 ta
 urllib3
 requests
-ta-lib
+TA-Lib
