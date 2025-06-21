@@ -1,3 +1,5 @@
-ta-lib==0.4.24
+pandas
+pandas-ta
+numpy
+python-telegram-bot
 requests
-python-telegram-bot==20.3
