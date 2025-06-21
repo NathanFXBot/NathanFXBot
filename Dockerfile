@@ -1,4 +1,4 @@
-FROM python:3.12-# Use official Python 3.12 image
+
 FROM python:3.12-slim
 
 # Install system dependencies needed for TA-lib and builds
