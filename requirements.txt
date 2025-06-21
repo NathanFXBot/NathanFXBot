@@ -1,5 +1,5 @@
 pandas
 pandas-ta
-numpy
+numpy==1.24.4
 python-telegram-bot
 requests
