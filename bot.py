@@ -7,8 +7,8 @@ from telegram.error import TelegramError
 import requests
 
 # Your Telegram bot token and chat ID
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
-CHAT_ID = os.getenv('CHAT_ID')
+TELEGRAM_TOKEN = 8162763392:AAFF97mkCT08u9-jJ0Uu5HBS4f7N-Stc_UE
+CHAT_ID = -1002508862026
 
 bot = Bot(token=TELEGRAM_TOKEN)
 
